@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 
-const API_BASE_URL = 'https://my-rbac-app.onrender.com';
+const API_BASE_URL = 'https://my-rbac-app.onrender.com/api';
 
 const App = () => {
   const [user, setUser] = useState(null);
