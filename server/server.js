@@ -8,7 +8,14 @@ const port = 3001;
 // --- Middleware ---
 app.use(express.json());
 // Enable CORS for your Vite frontend port
-app.use(cors({ origin: 'http://localhost:5173' }));
+// Update this 
+app.use(cors({
+    origin: [
+        'http://localhost:5173',             // Local Vite
+        'https://my-rbac-app.vercel.app'     // Live Vercel App
+    ],
+    credentials: true
+}));
 
 // --- Routes ---
 app.use('/api/auth', require('./routes/auth'));
