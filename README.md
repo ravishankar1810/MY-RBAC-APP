@@ -49,12 +49,9 @@ Built using **MERN stack principles**, it addresses the critical security risk o
 
 
 
-### 🎥 Video Walkthrough
-
-
+### [🎥 Video Walkthrough](https://youtu.be/4dNuVgB-4f4)
 [![Watch the video](https://img.youtube.com/vi/4dNuVgB-4f4/maxresdefault.jpg)](https://youtu.be/4dNuVgB-4f4)
 
-### [🎥 Video Walkthrough](https://youtu.be/4dNuVgB-4f4)
 
 
 ### 🖥️ Application Screenshots
