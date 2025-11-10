@@ -50,8 +50,9 @@ Built using **MERN stack principles**, it addresses the critical security risk o
 
 
 ### 🎥 Video Walkthrough
-*(Add your video demo link here — YouTube or Loom)*  
-[Click here to watch the demo video](#)
+
+
+[Watch the Full Demo on YouTube](https://youtu.be/4dNuVgB-4f4)
 
 ### 🖥️ Application Screenshots
 
