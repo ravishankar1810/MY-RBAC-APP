@@ -1,6 +1,5 @@
 # 🔐 Secure Role-Based Access Control (RBAC) Web Portal
 
-> *(Tip: Replace the above placeholder with a real screenshot of your dashboard later if you want)*
 
 ---
 
