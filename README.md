@@ -43,6 +43,12 @@ Built using **MERN stack principles**, it addresses the critical security risk o
 
   ![admin page](https://github.com/ravishankar1810/MY-RBAC-APP/blob/bde10c60b6d27d89f2e4f6196597f4da4620018f/Screenshot%202025-11-10%20121046.png)
 
+- **Editor page:**
+
+![edittor page](https://github.com/ravishankar1810/MY-RBAC-APP/blob/0d32e7907a4b958dff66068909214805107f9acd/Screenshot%202025-11-10%20121734.png)
+
+
+
 ### 🎥 Video Walkthrough
 *(Add your video demo link here — YouTube or Loom)*  
 [Click here to watch the demo video](#)
